@@ -1,0 +1,35 @@
+India
+
+Team[matches=7, matchesWon=2, matchesLost=5, matchesDraw=0, teamName='Team-1',
+teamPlayers=
+[Player{name='Player-1-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=82, out=7, oversBowled=0.0, ballsPlayed=54, wickets=0, strikeRate=151.85185185185185, onStrike=false, type='batsman', uniqueId=1
+}, Player{name='Player-2-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=172, out=7, oversBowled=0.0, ballsPlayed=114, wickets=0, strikeRate=150.87719298245614, onStrike=false, type='batsman', uniqueId=2
+}, Player{name='Player-3-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=214, out=7, oversBowled=0.0, ballsPlayed=137, wickets=0, strikeRate=156.2043795620438, onStrike=false, type='batsman', uniqueId=3
+}, Player{name='Player-4-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=147, out=7, oversBowled=0.0, ballsPlayed=85, wickets=0, strikeRate=172.94117647058823, onStrike=false, type='Wicketkeeper-batsman', uniqueId=4
+}, Player{name='Player-5-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=70, out=7, oversBowled=0.0, ballsPlayed=49, wickets=0, strikeRate=142.85714285714286, onStrike=false, type='batsman', uniqueId=5
+}, Player{name='Player-6-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=143, out=5, oversBowled=17.4, ballsPlayed=99, wickets=4, strikeRate=144.44444444444443, onStrike=false, type='allrounder', uniqueId=6
+}, Player{name='Player-7-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=115, out=5, oversBowled=19.5, ballsPlayed=58, wickets=6, strikeRate=198.27586206896552, onStrike=false, type='allrounder', uniqueId=7
+}, Player{name='Player-8-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=153, out=5, oversBowled=20.0, ballsPlayed=92, wickets=8, strikeRate=166.30434782608697, onStrike=false, type='bowler', uniqueId=8
+}, Player{name='Player-9-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=106, out=4, oversBowled=20.0, ballsPlayed=74, wickets=6, strikeRate=143.24324324324326, onStrike=true, type='bowler', uniqueId=9
+}, Player{name='Player-10-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=26, out=3, oversBowled=22.0, ballsPlayed=19, wickets=13, strikeRate=136.8421052631579, onStrike=false, type='bowler', uniqueId=10
+}, Player{name='Player-11-TeamTeam-1', team='Team-1', matchesPlayed=7, runs=21, out=0, oversBowled=22.5, ballsPlayed=9, wickets=13, strikeRate=233.33333333333334, onStrike=false, type='bowler', uniqueId=11
+}]
+]
+
+Australia
+
+Team[matches=7, matchesWon=5, matchesLost=2, matchesDraw=0, teamName='Team-2',
+teamPlayers=
+[Player{name='Player-1-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=229, out=7, oversBowled=0.0, ballsPlayed=143, wickets=0, strikeRate=160.13986013986013, onStrike=false, type='batsman', uniqueId=12
+}, Player{name='Player-2-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=103, out=7, oversBowled=0.0, ballsPlayed=63, wickets=0, strikeRate=163.4920634920635, onStrike=false, type='batsman', uniqueId=13
+}, Player{name='Player-3-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=198, out=6, oversBowled=0.0, ballsPlayed=112, wickets=0, strikeRate=176.78571428571428, onStrike=false, type='batsman', uniqueId=14
+}, Player{name='Player-4-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=103, out=7, oversBowled=0.0, ballsPlayed=69, wickets=0, strikeRate=149.27536231884056, onStrike=false, type='batsman', uniqueId=15
+}, Player{name='Player-5-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=116, out=6, oversBowled=0.0, ballsPlayed=65, wickets=0, strikeRate=178.46153846153848, onStrike=false, type='Wicketkeeper-batsman', uniqueId=16
+}, Player{name='Player-6-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=132, out=6, oversBowled=20.0, ballsPlayed=76, wickets=9, strikeRate=173.6842105263158, onStrike=false, type='allrounder', uniqueId=17
+}, Player{name='Player-7-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=149, out=3, oversBowled=20.0, ballsPlayed=85, wickets=6, strikeRate=175.2941176470588, onStrike=false, type='allrounder', uniqueId=18
+}, Player{name='Player-8-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=102, out=2, oversBowled=20.0, ballsPlayed=57, wickets=9, strikeRate=178.94736842105263, onStrike=false, type='bowler', uniqueId=19
+}, Player{name='Player-9-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=49, out=2, oversBowled=20.0, ballsPlayed=29, wickets=6, strikeRate=168.9655172413793, onStrike=false, type='bowler', uniqueId=20
+}, Player{name='Player-10-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=30, out=2, oversBowled=24.4, ballsPlayed=24, wickets=11, strikeRate=125.0, onStrike=false, type='bowler', uniqueId=21
+}, Player{name='Player-11-TeamTeam-2', team='Team-2', matchesPlayed=7, runs=19, out=2, oversBowled=27.0, ballsPlayed=11, wickets=16, strikeRate=172.72727272727272, onStrike=false, type='bowler', uniqueId=22
+}]
+]
